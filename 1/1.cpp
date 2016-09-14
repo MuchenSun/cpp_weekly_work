@@ -8,7 +8,7 @@ int main()
 
 	//Promote
 	cout << "Seconds=";
-    cin >> sec;
+	cin >> sec;
 
 	//Caculate
 	min = sec / 60;
